@@ -5,6 +5,7 @@ This script identifies whether the logged-in user on a Mac is signed into iCloud
 Prerequisites
 
 macOS
+
 Access to user preferences (MobileMeAccounts.plist)
 Usage
 
